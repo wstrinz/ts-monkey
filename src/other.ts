@@ -1,1 +1,1 @@
-export const callAlert = () => alert('yolo')
+export const callAlert = () => alert('hello')
